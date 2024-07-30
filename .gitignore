@@ -19,6 +19,10 @@ share/python-wheels/
 *.dist-info/
 
 # Virtual environments
+bin/
+include/
+lib/
+lib64/
 env/
 venv/
 ENV/
